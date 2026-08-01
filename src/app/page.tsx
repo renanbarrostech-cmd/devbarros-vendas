@@ -28,7 +28,7 @@ export default function Home() {
         <Services />
         <StartNow />
         <HowItWorks />
-        <Cases />
+        {/*<Cases />*/}
         <About />
         <Diffs />
         <Faq />
