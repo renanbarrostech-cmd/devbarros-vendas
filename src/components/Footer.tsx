@@ -87,7 +87,7 @@ export default function Footer() {
             <a href="https://instagram.com/renan.devbarros" target="_blank" rel="noopener noreferrer" style={{ color: "rgba(245,246,248,0.65)" }}>
               Instagram
             </a>
-            <a href="mailto:contato@renanbarros.dev" style={{ color: "rgba(245,246,248,0.65)" }}>
+            <a href="mailto:renanbarros.tech@gmail.com" style={{ color: "rgba(245,246,248,0.65)" }}>
               Email
             </a>
           </div>
